@@ -220,8 +220,8 @@ const Person: NextPage = () => {
           )}
         </div>
       </nav>
-      <div className="container d-flex">
-        <div className="controls">
+      <div className="container">
+        <div className="controls d-flex">
           <label htmlFor="animations">Choose Animation: </label>
           <select
             id="animations"

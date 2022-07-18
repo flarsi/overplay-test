@@ -1,0 +1,74 @@
+{
+  "idle": {
+    "name": "Idle",
+    "start": {
+      "col": 0,
+      "row": 0
+    },
+    "frameCount": 4
+  },
+  "crouch": {
+    "name": "Crouch",
+    "start": {
+      "col": 4,
+      "row": 0
+    },
+    "frameCount": 4
+  },
+  "run": {
+    "name": "Run",
+    "start": {
+      "col": 1,
+      "row": 1
+    },
+    "frameCount": 6
+  },
+  "jumpAndSlide": {
+    "name": "Jump & Slide",
+    "start": {
+      "col": 0,
+      "row": 2
+    },
+    "frameCount": 15
+  },
+  "cornerGrab": {
+    "name": "Corner grab",
+    "start": {
+      "col": 1,
+      "row": 4
+    },
+    "frameCount": 9
+  },
+  "idle2": {
+    "name": "Idle with weapon",
+    "start": {
+      "col": 3,
+      "row": 5
+    },
+    "frameCount": 4
+  },
+  "attack": {
+    "name": "First attack",
+    "start": {
+      "col": 0,
+      "row": 6
+    },
+    "frameCount": 17
+  },
+  "attack2": {
+    "name": "Secondary attack",
+    "start": {
+      "col": 1,
+      "row": 12
+    },
+    "frameCount": 8
+  },
+  "attack3": {
+    "name": "Third attack",
+    "start": {
+      "col": 2,
+      "row": 13
+    },
+    "frameCount": 16
+  }
+}
